@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+.contact-div {
+  width: 700px;
+  background-color: transparent;
+  color: #fff;
+  padding: 30px 40px;
+}
+
+.contact-div h1 {
+  font-size: 38px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.contact-div p {
+  font-size: 22px;
+  text-align: center;
+  margin: 20px;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-div .icon {
+  width: 25px;
+  height: 25px;
+  font-size: 16px;
+}

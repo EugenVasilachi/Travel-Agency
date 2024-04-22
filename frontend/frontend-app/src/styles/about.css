@@ -1,0 +1,22 @@
+.about-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: rgba(19, 71, 155, 0.325);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(2px);
+}
+
+.about-container h1 {
+  text-align: center;
+  color: #eee;
+  margin-bottom: 20px;
+}
+
+.about-container p {
+  text-align: center;
+  color: #ddd;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
